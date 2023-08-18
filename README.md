@@ -10,9 +10,9 @@ KhulnaSoft Security Open Source Projects Helm Charts on a [Kubernetes](https://k
 
 ## Charts
 
-- [Vul Operator](https://github.com/khulnasoft-lab/vul-operator/tree/main/deploy/helm)
+- [Vul Operator](https://github.com/khulnasoft/vul-operator/tree/main/deploy/helm)
 - [Starboard](https://github.com/khulnasoft-lab/starboard/tree/main/deploy/helm)
-- [Vul](https://github.com/khulnasoft-lab/vul/tree/main/helm/vul)
+- [Vul](https://github.com/khulnasoft/vul/tree/main/helm/vul)
 - [Postee](https://github.com/khulnasoft-lab/postee/tree/main/deploy/helm/postee)
 
 ## Prerequisites
